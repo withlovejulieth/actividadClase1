@@ -1,35 +1,34 @@
-// CONSOLE.LOG -> la forma de enviar mensajes a la consola del navegador
-console.log("HOLA, DESARROLLADORES  Y PSICÓLOGOS");
-console.log("mi mensaje");
+Console.log("Hola, mundo");
+Console.log("Hola, desarrolladores y psicólogos");
+console.log("Este es mi mensaje");
 
 
-
-// NOTAS PROFE: CONCEPTOS BÁSICO EN JAVASCRIPT
-//1. tipos de variables
+// Conceptos esenciales de JAVASCRIPT: 
+//1. Tipos de variables
 //2. Manejo del DOM
 //3. Condicionales
 //4. Ciclos
-// LAS VARIABLES EN JS -> piensen en las variables como contenedores de información
+// LAS VARIABLES EN JS -> Contenedores de información
 
-// Hay 3 tipos de variables en js
-// VAR -> Un tipo de variable que ya no se usa (NO LA VAMOS A UTILIZAR) -> Cambia en el tiempo
-// LET -> Es una variable que puede cambiar en el tiempo
-// CONST -> en una variable que no puede cambiar en el tiempo
+// Hay 3 tipos de variables en JS
+// VAR -> No se emplea en la actualidad -> También cambia en el tiempom
+// LET -> Variable que puede cambiar en el tiempo
+// CONST -> Variable que no puede cambiar en el tiempo
 
-//TIPOS DE DATOS O INFORMACIÓN PODEMOS ALMACENAR
-//el = en JS no es comparativo, sino que me sirve para asignar valores
+// Tipos de datos / información que podemos almacenar:
+// El símbolo (=) en JS no es comparativo, dado que permite asignar valores
 
-// Numéricos
+// Numéricos EJ: 
 let numero = 7;
 
-// cadena de caracteres -> texto -> string (en programación)
-// El texto SIEMPRE debe estar dentro de comillas 
+// Cadena de caracteres o texto (string en programación) EJ:
+// Recordatorio: El texto SIEMPRE debe estar dentro de comillas 
 let texto = "hola, mundo"
 
-//Booleanos -> un dato que puede ser o verdadero o falso 
-let esVerdadero = true; //true -> verdad
-let esFalso = false; // false -> falso
+//Booleanos -> Dato que puede ser o verdadero o falso EJ:
+let esVerdadero = true; 
+let esFalso = false; 
 
-//Arreglos -> arrays(en programación) -> me permiten almacenar varios datos al mismo tiempo en una misma variable
+// Arreglos (arrays en programación) -> Facilitan el almacenamiento de varios datos al mismo tiempo dentro una misma variable EJ:
 let arregloNombres = ["Luisa", "Emmanuel", "Paula", "Lucila"];
 let arregloNumeros = [1, 3, 5, 8, 20];
