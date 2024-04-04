@@ -12,7 +12,7 @@ A continuación, se estará desarrollando el paso a paso para conectar mi reposi
     2. Escribir los comandos generados por GitHub para iniciar el repositorio local y generar una conexión en el remoto
 
 Misc - Sugerencias para el README del Proyecto
-(1) Título
-(2) Autor
-(3) Descripción (párrafo corto/breve)
+1. Título
+2. Autor
+3. Descripción (párrafo corto/breve)
 
