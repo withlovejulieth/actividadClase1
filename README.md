@@ -10,7 +10,9 @@ A continuación, se estará desarrollando el paso a paso para conectar mi reposi
 2. Crear repositorio local (PC)
     1. Abrir la consola de Git Bash desde Visual Studio (forma 1/ cntrl + ñ | forma 2/ ... al lado de Selección, Terminal, Nuevo Terminal)
     2. Escribir los comandos generados por GitHub para iniciar el repositorio local y generar una conexión en el remoto
-    3. 
 
-
+Misc - Sugerencias para el README del Proyecto
+(1) Título
+(2) Autor
+(3) Descripción (párrafo corto/breve)
 
