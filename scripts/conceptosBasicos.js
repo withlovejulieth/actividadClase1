@@ -1,5 +1,5 @@
-Console.log("Hola, mundo");
-Console.log("Hola, desarrolladores y psicólogos");
+console.log("Hola, mundo");
+console.log("Hola, desarrolladores y psicólogos");
 console.log("Este es mi mensaje");
 
 // Conceptos esenciales de JAVASCRIPT: 
@@ -52,3 +52,6 @@ const celular = {
 };
 
 // Las funciones son las acciones que realiza el objeto; pueden o no recibir datos de entrada, pero es seguro que tendrá un procesamiento de datos para devolver un resultado concreto
+// Las clases pueden agrupar objetos
+// En la carpeta scripts deben encontrarse todos los archivos .js destinados a otorgar dinamismo al sitio web. 
+// Node JS permite implementar .js en el Backend por medio de operaciones lógicas, para que el sitio web tenga el funcionamiento esperado. 
